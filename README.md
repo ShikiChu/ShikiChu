@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShikiChu
-- 👀 I’m interested in Web Technology
-- 🌱 I’m currently learning C#, PHP, JavaScript, HTML, CSS, JQuery, MySQL
+- 👀 I’m interested in Tech
+- 🌱 I’m always learning new technologies
 - 📫 Reach me by sending Email to chu00075@algonquinlive.com
 
 <!---
